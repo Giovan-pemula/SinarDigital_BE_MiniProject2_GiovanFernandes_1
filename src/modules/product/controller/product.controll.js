@@ -48,7 +48,7 @@ const createProduct = async (req, res) => {
       ...req.body,
     price: Number(req.body.price),
     categoryId: Number(req.body.categoryId),
-      image: req.file.filename, // ✅ SIMPAN NAMA FILE SAJA
+      image: req.file.filename, 
     };
 
     const product = await productService.createProduct(data);
