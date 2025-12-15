@@ -1,0 +1,13 @@
+Halo abg abgan er en di
+
+ini backend week 2 aku bikinnya product dan category dan untuk upload imagenya ada dibagian postman lalu ke body lalu pilih yang form data setelah itu keynya ada
+image hbistu ubah dari text ke file 
+name text
+price text
+video text
+description text
+categoryId text
+
+dan backendweek2 ini juga udah disertai seed lalu CRUD bisa product dan category
+kalau untuk categorhy cukup ke body lalu raw json aja
+
